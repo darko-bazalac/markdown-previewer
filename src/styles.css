@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
